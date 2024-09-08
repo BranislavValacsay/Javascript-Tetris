@@ -39,8 +39,12 @@ This project presents a basic version of Tetris, programmed in pure JavaScript. 
 
 ## License
 
-This project is available under the [MIT license](https://opensource.org/licenses/MIT).
+This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
+
+## Contributing
+
+Contributions to improve the game are welcome. Please feel free to fork the repository, make changes, and submit a pull request.
 
 ---
 
-Created with ❤️ by [Your Name]
+Created with ❤️ by Branislav Valacsay
